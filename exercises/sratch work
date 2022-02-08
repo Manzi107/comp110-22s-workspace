@@ -1,0 +1,3 @@
+"""An example of a while loop statement."""
+
+counter: int = 0
